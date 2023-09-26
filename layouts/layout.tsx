@@ -14,7 +14,7 @@ export const Layout: React.FC<Props> = ({ children }) => {
     return (
         <Box
             minH="100vh"
-            bg={useColorModeValue("blue.50", "blackAlpha.900")}
+            bg={useColorModeValue("brand.100", "brand.50")}
         >
             <Navbar />
             {children}

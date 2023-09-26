@@ -26,9 +26,10 @@ const NavItem : React.FC<NavItemProps> = ({ route }) => {
         >
             <Button
                 variant="ghost"
-                colorScheme={pathname === route.href ? 'brand' : 'gray'}
+                colorScheme='gray'
                 alignItems='center'
                 display='flex'
+                isDisabled={pathname === route.href}
             >
                 {route.name}
             </Button>

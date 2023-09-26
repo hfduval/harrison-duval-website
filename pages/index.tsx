@@ -9,7 +9,7 @@ export default function Home() {
                         Welcome,
                     </h1>
                     <h2>
-                        This is my personal website.
+                        this is my personal website.
                     </h2>
                 </div>
             </main>
