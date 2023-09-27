@@ -30,7 +30,7 @@ const Navbar : React.FC = () => {
                 href='/'
             >
                 <Image
-                    src="/logo.jpg"
+                    src="/logo.png"
                     height={12}
                     width={12}
                     alt='personal logo'
