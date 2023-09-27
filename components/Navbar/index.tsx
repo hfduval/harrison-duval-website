@@ -38,7 +38,7 @@ const Navbar : React.FC = () => {
                 />
             </Link>
             <Box
-                display={{ base: 'flex' }}
+                display={['flex', 'flex', 'flex', 'flex']}
             >
                 <NavLinks />
             </Box>
