@@ -22,7 +22,7 @@ const Navbar : React.FC = () => {
             zIndex={100}
             height={navbarHeight}
             w='100%'
-            gap={8}
+            gap={4}
             alignItems='center'
             p={4}
         >
@@ -38,7 +38,7 @@ const Navbar : React.FC = () => {
                 />
             </Link>
             <Box
-                display={['flex', 'flex', 'flex', 'flex']}
+                display={{ base: 'flex' }}
             >
                 <NavLinks />
             </Box>

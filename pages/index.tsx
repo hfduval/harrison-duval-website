@@ -1,4 +1,5 @@
 import { Layout } from "@/layouts/layout";
+import SocialButtons from "@/components/SocialButtons";
 
 export default function Home() {
     return (
@@ -11,6 +12,7 @@ export default function Home() {
                     <h2>
                         this is my personal website.
                     </h2>
+                    <SocialButtons />
                 </div>
             </main>
         </Layout>

@@ -9,8 +9,8 @@ import { routes } from './routes'
 const NavLinks = () => {
     return (
         <Flex
-            alignItems={{base: 'flex-start', md: 'center', sm: 'center'}}
-            flexDirection={{base: 'column', md: 'row', sm: 'row'}}
+            alignItems={{base: 'center'}}
+            flexDirection={{base: 'row'}}
             gap={{base: 4, md: 0, sm: 0}}
         >
             {
