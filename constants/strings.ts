@@ -1,24 +1,27 @@
 export const strings = {
-    "about": "Hi, my name is Harrison Duval. I am a senior Computer Science major at " +
-        "Vanderbilt University. I was born in Fort Lauderdale Florida, to a Peruvian mom and " +
-        "American dad. I was always a very curious kid who loved science and nature. I spent my " +
-        "days bird watching with my dad in the everglades, and watching shark week. As I grew " +
-        "older, I got more into computers and video games and spent much of my time in middle " +
-        "school on my PC. My time in high school was spent working hard to get into college while" +
-        " playing a ton of soccer. As a Freshman in college, I planned on declaring as an " +
-        "economics major and pursuing a career in finance. Boy was I wrong. In my second semester" +
-        " of college I took the introductory Java class, and fell in love with coding. I found " +
-        "myself genuinely enjoying my homework, and I knew this was the path for me. Fast forward" +
-        " three years and I have now worked as a Software Engineering Intern for two summers at " +
-        "Amazon. I plan on graduating in the Spring of 2024, and I'm excited to start my career " +
-        "as a Software Engineer.",
-    "hobbies": "I love soccer. As mentioned above, I played soccer since childhood. All of my " +
-        "friends played soccer and I became serious about it in high school. I played on my " +
-        "high schools state championship winning varsity soccer team, and I learned a lot about " +
-        "overcoming adversity and working hard for something you love. I also love watching the " +
-        "sport, and my favorite team is Tottenham Hotspur. My English friends Leo and Stefano" +
-        "introduced me to the English Premier League, and I've been a fan ever since. Other " +
-        "hobbies of mine include playing video games such as CS:GO, Football Manager, FIFA, and " +
-        "Sid Meier's Civilization. Outside of these, I just enjoy hanging out with my friends and" +
-        " really value my relationships with them."
+    "about": "Hi, my name is Harrison Duval. I was born in Fort Lauderdale, Florida. My mom is a Peruvian immigrant, " +
+        "and latinx culture was a big part of my upbringing. I am a senior at Vanderbilt University, majoring in " +
+        "computer science. I am an aspiring software engineer with experience developing full-stack applications. " +
+        "I have the most experience programming in Java, JavaScript (React), and C++.",
+    "work": "My work experience has come from my two summer internships as a software developer at Amazon. During my " +
+        "time as an intern, I received the opportunity to tackle two customer impacting projects. My first project " +
+        "was mostly backend work, where I used AWS Step Functions, Lambda, Glue, SNS, SQS, S3, and DynamoDB to " +
+        "offer customers the ability to remove ASIN and Brand ID mappings from items in the Amazon catalog. During my " +
+        "second internship, I had the opportunity to develop a full stack application that allows users to search " +
+        "various databases for historical data on all ASIN and Brand ID mappings submitted to the Amazon catalog. I " +
+        "accomplished this by setting up multiple REST API endpoints for each search type. I implemented the server " +
+        "side as a Spring Boot application that queries the databases when the relevant endpoints are hit. I built " +
+        "the frontend using React routing, components, and hooks. Throughout both of these internships I improved " +
+        "my technical skills, and my understanding of cloud computing. Furthermore, I grew a lot as a person and " +
+        "professionally by learning how to deal with ambiguous situations and developed more patience.",
+    "hobbies": "Soccer has been one of my strongest passions since childhood. I grew up playing recreational soccer " +
+        "with my friends and joined my middle school soccer team with them. In high school, I began to take it more " +
+        "seriously and decided to hone my skills by joining the local club team. My goal was to make my school's " +
+        "highly competitive varsity team. By the end of my sophomore year, I had achieved this goal and joined the " +
+        "team. This taught me the important life lesson of working hard to achieve my goals. In my senior year, we " +
+        "won the state championship, and it was a very proud moment for me. My other hobbies include watching " +
+        "soccer, and my favorite club is Tottenham Hotspur. While growing up, I also enjoyed playing video games " +
+        "with my friends, as it was a fun way to socialize with them outside of school. As I've grown older, I have " +
+        "struggled to find the time to play these games, but I still occasionally play Football Manager, FIFA, " +
+        "CS:GO, Overwatch, and League of Legends."
 }
