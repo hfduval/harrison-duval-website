@@ -9,7 +9,7 @@ export default function About() {
                 <div className="flex min-h-screen flex-col pl-8 pt-20 pr-8 pb-8">
                     <div className="flex flex-row">
                         <Image
-                            className="hidden lg:block pr-6"
+                            className="object-scale-down hidden lg:block pr-6"
                             src="/me.jpg"
                             alt="Me"
                             width={650}
